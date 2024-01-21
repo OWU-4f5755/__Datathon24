@@ -2,6 +2,9 @@
 ## Authors
 - Oscar Wu, Judy Fang, Naman Gupta, Stephanie Chu
 
+## Youtube Link
+- https://youtu.be/IpAfl0Oqrq0
+
 ## Summary
 - This report outlines the development and evaluation of a machine learning model to predict peak oil production rates using various geological and operational features. The project involves extensive data preprocessing, feature engineering, exploratory data analysis (EDA), model training, hyperparameter tuning, and model evaluation.
 
